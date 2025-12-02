@@ -18,16 +18,17 @@
     IMPORT FILES
 -------------------------------------------------------------------*/
 
-@import url(all.css);
-@import url(superslides.css);
-@import url(bootstrap-select.css);
-@import url(carousel-ticker.css);
-@import url(code_animate.css);
-@import url(bootsnav.css);
-@import url(owl.carousel.min.css);
-@import url(jquery-ui.css);
-@import url(nice-select.css);
-@import url(baguetteBox.min.css);
+@import url("./all.css");
+@import url("./superslides.css");
+@import url("./bootstrap-select.css");
+@import url("./carousel-ticker.css");
+@import url("./code_animate.css");
+@import url("./bootsnav.css");
+@import url("./owl.carousel.min.css");
+@import url("./jquery-ui.css");
+@import url("./nice-select.css");
+@import url("./baguetteBox.min.css");
+
 
 /*------------------------------------------------------------------
     SKELETON
@@ -2441,6 +2442,7 @@ nav.navbar.bootsnav ul.nav > li > a{
     background:#9ef01a;
     color:#010101;
 }
+
 
 
 
